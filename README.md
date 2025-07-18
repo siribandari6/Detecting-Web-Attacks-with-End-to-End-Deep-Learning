@@ -1,4 +1,3 @@
-
 # 🔐 Detecting Web Attacks with End-to-End Deep Learning
 
 This project aims to detect web-based cyber attacks using a combination of a Django web framework and deep learning models powered by TensorFlow and Keras. The goal is to develop an intelligent system capable of identifying malicious HTTP requests and preventing potential security breaches.
